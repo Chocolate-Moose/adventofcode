@@ -1,3 +1,3 @@
 # adventofcode2020
 
-I decided to participate in Advent of Code 2020 after seeing a post about it in the [DALI] (http://dali.dartmouth.edu/) dev channel!  I thought this would be a great way to learn Python, as well as give me some interesting questions to think about during my winter break.
+I decided to participate in Advent of Code 2020 after seeing a post about it in the [DALI](http://dali.dartmouth.edu/) dev channel!  I thought this would be a great way to learn Python, as well as give me some interesting questions to think about during my winter break.
